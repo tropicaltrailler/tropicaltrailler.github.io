@@ -15,7 +15,7 @@
     <!-- meta character set -->
     <meta charset="UTF-8">
     <!-- Site Title -->
-    <title>Serralheria Estruturas Food Truck Trailer Contagem Betim BH e regiao</title>
+    <title>Traillers, Food Trucks e Carretinhas</title>
 
     <link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
         <!--
@@ -78,7 +78,7 @@
                     <div class="banner-content col-lg-12 col-md-12">
                         <h6 class="text-uppercase">Aqui você encontra traillers, food truck e carretinhas de acordo com sua necessidade. </h6>
                         <h1>
-                            Temos os melhores produtos personalizados de acordo com sua demanda.
+                            Tropical Trailler: produtos personalizados de acordo com sua demanda.
                         </h1>
                         <p class="text-white">
                             Estamos na região metropolitana de Belo Horizonte e atendemos em todo o Brasil. Entre em contato e solicite um orçamento para seu trailler, food truck ou carretinha.
@@ -122,7 +122,8 @@
                         </div>							
                     </div>
                 </div>
-            </div>	
+            </div>
+	    <div id="myButton"></div>	
         </section>
         <!-- End cat Area -->		
         
