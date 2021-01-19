@@ -35,9 +35,7 @@
         <link rel="stylesheet" href="css/floating-wpp.css">
         <link rel="stylesheet" href="floating-wpp.min.css">  
 	<script>
-  function showAlert() {
-    alert ("Hello world!");
-  }
+  
   </script>
         
     </head>
@@ -390,7 +388,7 @@ Entre em contato por telefone, whatsapp ou faça nos uma visita; estamos na via 
         
     </body>
     <script type="text/javascript">
-        $(function () {
+        (function () {
             $('#myButton').floatingWhatsApp({
             phone: '553199349-4624',
             popupMessage: 'Olá, em que podemos te ajudar?',
@@ -401,7 +399,7 @@ Entre em contato por telefone, whatsapp ou faça nos uma visita; estamos na via 
             headerColor: 'crimson',
             backgroundColor: 'crimson',
             buttonImage: '<img src="img/whatsapp.svg" />'
-    });
+    })();
 });
 </script>
 </html>
