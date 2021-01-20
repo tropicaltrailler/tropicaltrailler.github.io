@@ -42,7 +42,7 @@
                 'background-color': settings.backgroundColor
                /* 'width': settings.size,
                 'height': settings.size,
-                'background-color': settings.backgroundColor/*
+                'background-color': settings.backgroundColor*/
             });
 
         if (!isInternetExplorer() || settings.showOnIE) {
