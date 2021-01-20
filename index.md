@@ -391,6 +391,8 @@ Entre em contato por telefone, whatsapp ou faça nos uma visita; estamos na via 
     </body>
     <script type="text/javascript">
         $(function () {
+	    console.log($('#myButton'));
+	    console.log("teste");
             $('#myButton').floatingWhatsApp({
             phone: '553199349-4624',
             popupMessage: 'Olá, em que podemos te ajudar?',
