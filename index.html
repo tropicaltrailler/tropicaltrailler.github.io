@@ -141,7 +141,7 @@ Entre em contato por telefone, whatsapp ou faça nos uma visita; estamos na via 
                
             </div>
             
-            <div class="myButton"></div>	
+            <div id="myButton"></div>	
         </section>
         <!-- End home-about Area -->
                 
@@ -391,7 +391,7 @@ Entre em contato por telefone, whatsapp ou faça nos uma visita; estamos na via 
     </body>
     <script type="text/javascript">
         $(function () {
-            $('.myButton').floatingWhatsApp({
+            $('#myButton').floatingWhatsApp({
             phone: '553199349-4624',
             popupMessage: 'Olá, em que podemos te ajudar?',
             message: "Gostaria de fazer um orçamento",
